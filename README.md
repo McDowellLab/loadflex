@@ -16,7 +16,7 @@ lab](http://wrrc.unh.edu/mcdowell-lab-current) at the University of New
 Hampshire, 2013-2015. Funding for the project was provided by the National 
 Science Foundation, USDA National Institute of Food and Agriculture, and the NH 
 Agricultural Experiment Station. Funding for the example dataset from the 
-Lamprey River was provied by the EPA, NH Water Resources Research Center, NH 
+Lamprey River was provided by the EPA, NH Water Resources Research Center, NH 
 Agricultural Experiment Station, NH Sea Grant, USGS, and NSF. This work is 
 described in
 
